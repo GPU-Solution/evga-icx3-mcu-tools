@@ -1,0 +1,10 @@
+# Never commit EVGA / NVIDIA / NXP binaries or derived images
+*.bin
+*.dll
+*.exe
+*.elf
+*.zip
+*.pdf
+*.log
+*.dis
+__pycache__/
